@@ -1,2 +1,2 @@
 
-puts "ilk code"
+puts "ilk code sinem2 yaptı"
